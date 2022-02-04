@@ -11,3 +11,5 @@ The order is,
 3. for,while if statements
 4. Nested List Comprehensions (Very useful!)
 5. Numpy
+6. MatPlotLib
+7. Pandas
