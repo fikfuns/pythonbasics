@@ -17,3 +17,5 @@ Packages you probably need:
 3. scikitlearn
 4. matplotlib
 5. Streamlit(creating your own webapp with your data inside)
+
+Some files are in .HTML to give you the convenience of accessing it through a browser rather than a separate environment/IDE(e.g Anaconda/Jupyter)
