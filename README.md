@@ -8,6 +8,6 @@ Here are my notes that I compiled during my self-studies and I hope it can be a 
 The order is,
 1. Intro To Python(1 & 2)
 2. Data Structures (This will teach you Lists,Tuples etc)
-3. Nested List Comprehensions (Very useful!)
-4. for,while,if statements
+3. for,while if statements
+4. Nested List Comprehensions (Very useful!)
 5. Numpy
